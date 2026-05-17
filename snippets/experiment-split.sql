@@ -152,6 +152,6 @@ experimentvariantid,
 experimentid,
 tracking
 FROM `tab.t_avast_chequebook` as target
-LEFT JOIN `ppp-dit-data-acq-d3.securedb.master_email` as secdb
+LEFT JOIN `t.master_email` as secdb
 ON target.customer_email = secdb.hash_value
 where experimentvariantid in ('a', 'c');
