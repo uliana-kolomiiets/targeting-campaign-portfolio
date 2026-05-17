@@ -1,4 +1,4 @@
-# 2026 — Year in Review: Targeting Improvements & Impact
+# 2025 — Year in Review: Targeting Improvements & Impact
 
 This year focused on operational maturity — cleaning up legacy logic, fixing production issues after a major data migration, improving cross-team communication, and building sustainable practices that make future work faster and more reliable.
 

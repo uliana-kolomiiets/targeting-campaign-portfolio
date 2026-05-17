@@ -32,7 +32,8 @@ Email Targeting Specialist with experience in lifecycle marketing at a major cyb
 
 Impact summaries highlighting key improvements and initiatives by year.
 
-- [**2026** — Operational Maturity](yearly-reports/2026-improvements.md): SMB campaign cleanup, STO fix after data migration, one-off targeting improvements, tracking codes reconciliation & cost savings
+- [**2025** — Operational Maturity](yearly-reports/2025-improvements.md): SMB campaign cleanup, STO fix after data migration, one-off targeting improvements, tracking codes reconciliation & cost savings
+- [**2024** — Growth & Foundation](yearly-reports/2024-improvements.md): SQL skill development, Black Friday campaign execution, technical independence, systems understanding
 
 ## SQL Snippets
 

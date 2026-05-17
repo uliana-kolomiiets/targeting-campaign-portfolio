@@ -1,4 +1,4 @@
-# 2026 — Year in Review: Targeting Improvements & Impact
+# 2024 — Year in Review: Growth & Foundation Building
 
 # Achievements:
     1. Improving coding skills a lot -> freely write the sql. The biggest proud is Black Friday, where the set up was very tricky, but I managed.
